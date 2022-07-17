@@ -1,0 +1,6 @@
+plotly~=5.9.0
+pandas~=1.4.3
+dash~=2.5.1
+Flask
+gunicorn == 20.1.0
+dash_bootstrap_components~=1.2.0
